@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @milroy777
-- 👀 I’m interested in ... front end web development
-- 🌱 I’m currently learning ... javascript
-- 📫 How to reach me ... rodriguesmilroy@gmail.com
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
+- 📫 How to reach me ... 
 
 <!---
 milroy777/milroy777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
